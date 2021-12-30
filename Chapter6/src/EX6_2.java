@@ -12,6 +12,5 @@ class EX6_2 {
 		System.out.println("현재 채널은 " + t1.channel + "입니다."); // 7
 		System.out.println("현재 채널은 " + t2.channel + "입니다."); // 7
 		
-
 	}
 }
