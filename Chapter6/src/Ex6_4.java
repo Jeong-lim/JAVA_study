@@ -38,4 +38,6 @@ class MyMath{
 	long subtract(long a, long b) { return a - b; }
 	long multiply(long a, long b) { return a * b; }
 	double divide(double a, double b) { return a / b; }
+	
+	// return문의 갯수는 최소화하는 것이 좋다
 }
